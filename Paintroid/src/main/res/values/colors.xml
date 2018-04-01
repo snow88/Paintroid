@@ -24,7 +24,7 @@
     <color name="dialog_stroke_element_color">#33B5E5</color>
     <color name="tools_text_color">#33B5E5</color>
     <color name="transparent">#00000000</color>
-    <color name="custom_background_color">#0097A7</color>
+    <color name="custom_background_color">#002B3B</color>
     <color name="custom_background_color_transparent">#000097A7</color>
     <color name="text_color_link">#E68B00</color>
     <color name="rectangle_secondary_color">#33B5E5</color>
@@ -62,10 +62,10 @@
     <color name="color_chooser_transparent">#00000000</color>
 
     <color name="colorPrimary">#00838F</color>
-    <color name="colorPrimaryDark">#00838F</color>
+    <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#33B5E5</color>
 
-    <color name="bottom_bar_button_activated">#007A99</color>
+    <color name="bottom_bar_button_activated">#4D7F8F</color>
     <color name="light_gray">#D3D3D3</color>
 
     <!--Intro Colors-->
